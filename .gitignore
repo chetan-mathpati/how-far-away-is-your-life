@@ -5,3 +5,7 @@ __pycache__/
 
 data/raw/
 data/processed/
+
+cache/
+
+data/external/bengaluru-traffic-reference/
